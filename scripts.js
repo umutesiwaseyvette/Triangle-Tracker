@@ -14,6 +14,6 @@ function getResult()
             alert("Not a triangle ");
         }
         else{
-            alert("This is a scalene triangle");
+            alert("This is a scalene triangle"); 
         }
 }
