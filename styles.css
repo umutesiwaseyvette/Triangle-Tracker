@@ -1,8 +1,29 @@
+body{
+    background-color:#ccff99;
+    float:center;
+}
+
 #Equilateral
 {
 width: 0;
-border-right: 25px;
-border-left: 25px; 
-border-bottom: 25px;
+border-right: 200px solid transparent;
+border-left: 200px solid transparent; 
+border-bottom: 200px solid #000;
 
+}
+#Isosceles
+{
+width: 0;
+border-right: 200px solid transparent;
+border-left: 200px solid transparent; 
+border-bottom: 150px solid #000;
+}
+#Scalene{
+width: 0;
+border-right: 220px solid transparent;
+border-left: 200px solid transparent; 
+border-bottom: 180px solid #000;
+}
+button{
+    background-color:#003399;
 }
