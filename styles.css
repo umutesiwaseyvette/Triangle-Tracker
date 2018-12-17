@@ -54,3 +54,7 @@ h2,h3,h1{
     p{
         color:navy;
     }
+    img{
+        width: 250px;
+        weight:250px;
+    }
