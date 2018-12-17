@@ -27,7 +27,7 @@ border-bottom: 180px solid #990000;
 }
 button{
     background-color:#4242f4;
-    padding: 15px 15px;
+    padding: 20px 20px;
 }
 dd{
     padding: 10px;
@@ -49,7 +49,7 @@ h2,h3,h1{
         padding: 20px;
     }
     input{
-        padding: 10px 10px;
+        padding: 20px 20px;
     }  
     p{
         color:navy;
