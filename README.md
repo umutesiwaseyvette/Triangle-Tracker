@@ -19,5 +19,5 @@ If so, the tracker returns the name of the kind of triangle the sides make (Equi
 * Email: rwjpyy@gmail.com
 * Tel: +250788582184
 ## License and Copyright information
-MIT License
-Copyright(c)2018 UMUTESIWASE Yvette
+* MIT License
+* Copyright(c)2018 UMUTESIWASE Yvette
