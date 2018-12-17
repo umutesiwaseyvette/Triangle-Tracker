@@ -26,5 +26,31 @@ border-left: 200px solid transparent;
 border-bottom: 180px solid #990000;
 }
 button{
-    background-color:#003399;
+    background-color:#4242f4;
+    padding: 15px 15px;
 }
+dd{
+    padding: 10px;
+    
+}
+li{
+    padding: 10px; 
+}
+ul{
+    list-style-type:square;
+}
+h2,h3,h1{
+    color: navy;
+    margin-left: 20px;
+    }
+    a{
+        color: blue;
+        margin: 5px;
+        padding: 20px;
+    }
+    input{
+        padding: 10px 10px;
+    }  
+    p{
+        color:navy;
+    }
