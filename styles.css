@@ -1,6 +1,7 @@
 body{
     background-color:#ccff99;
-    float:center;
+    /* text-align: center; */
+    margin-left: 753px;
 }
 
 #Equilateral
@@ -8,7 +9,7 @@ body{
 width: 0;
 border-right: 200px solid transparent;
 border-left: 200px solid transparent; 
-border-bottom: 200px solid #000;
+border-bottom: 200px solid #990000;
 
 }
 #Isosceles
@@ -16,13 +17,13 @@ border-bottom: 200px solid #000;
 width: 0;
 border-right: 200px solid transparent;
 border-left: 200px solid transparent; 
-border-bottom: 150px solid #000;
+border-bottom: 150px solid #990000;
 }
 #Scalene{
 width: 0;
 border-right: 220px solid transparent;
 border-left: 200px solid transparent; 
-border-bottom: 180px solid #000;
+border-bottom: 180px solid #990000;
 }
 button{
     background-color:#003399;
