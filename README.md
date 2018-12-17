@@ -11,13 +11,13 @@ Triangle Tracker takes the lengths of three sides and determines if they form a 
 If so, the tracker returns the name of the kind of triangle the sides make (Equilateral, Isosceles, Scalene).
 
 ## Technologies used
-HTML
-CSS
-JS
-Markdown
+* HTML
+* CSS
+* Java Script
+* Markdown
 ## Contact information
-Email: rwjpyy@gmail.com
-Tel: +250788582184
+* Email: rwjpyy@gmail.com
+* Tel: +250788582184
 ## License and Copyright information
-MIT
+MIT License
 Copyright(c)2018 UMUTESIWASE Yvette
